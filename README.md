@@ -10,22 +10,17 @@ A successful project requires many people to play many roles. Some members write
 
  PingCAP engineers, Digital China engineers, HUST and Huadong Normal University.
 
-|                王岩广                |                 张建                 |                                      |
-| :----------------------------------: | :----------------------------------: | :----------------------------------: |
-| ![](C:\Users\hitfu\Desktop\人头.png) | ![](C:\Users\hitfu\Desktop\人头.png) | ![](C:\Users\hitfu\Desktop\人头.png) |
-|             Org:PingCAP              |             Org:PingCAP              |                                      |
-|              Role：PMC               |              Role：PMC               |                                      |
-|           Github ID：1234            |           Github ID：1234            |                                      |
-|              **杨俊逸**              |              **陈梓立**              |                                      |
-| ![](C:\Users\hitfu\Desktop\人头.png) | ![](C:\Users\hitfu\Desktop\人头.png) |                                      |
-|             Org:PingCAP              |             Org:PingCAP              |                                      |
-|              Role：PMC               |              Role：PMC               |                                      |
-|           Github ID：1234            |           Github ID：1234            |                                      |
-
-![](C:\Users\hitfu\Desktop\人头.png)
-
-<figure class="third">     <img src="C:\Users\hitfu\Desktop\人头.png" width="120"/><img src="C:\Users\hitfu\Desktop\人头.png" width="120"/><img src="C:\Users\hitfu\Desktop\人头.png" width="120"/> </figure>
-
+|                          **王岩广**                          |                           **张建**                           |                          **陈梓立**                          |                          **杨俊逸**                          |                          **张博康**                          |                          **何民雄**                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) | ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) | ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) | ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) | ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) | ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) |
+|                         Org：PingCAP                         |                         Org：PingCAP                         |                         Org：PingCAP                         |                         Org：PingCAP                         |                         Org：PingCAP                         |                         Org：PingCAP                         |
+|                          Role：PMC                           |                          Role：PMC                           |                          Role：PMC                           |                          Role：PMC                           |                          Role：PMC                           |                          Role：PMC                           |
+|                          GithubID：                          |                          GithubID：                          |                          GithubID：                          |                          GithubID：                          |                          GithubID：                          |                          GithubID：                          |
+|                          **王琳琳**                          |                          **崔一丁**                          |                          **骆迪安**                          |                                                              |                                                              |                                                              |
+| ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) | ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) | ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) | ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) | ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) | ![](https://github.com/FuShixiong/TPplatform_test/blob/main/face.png) |
+|                         Org：PingCAP                         |                         Org：PingCAP                         |                         Org：PingCAP                         |                         Org：PingCAP                         |                         Org：PingCAP                         |                         Org：PingCAP                         |
+|                          Role：PMC                           |                          Role：PMC                           |                          Role：PMC                           |                          Role：PMC                           |                          Role：PMC                           |                          Role：PMC                           |
+|                          GithubID：                          |                          GithubID：                          |                          GithubID：                          |                          GithubID：                          |                          GithubID：                          |                          GithubID：                          |
 
 
 <h2 align = "center">How to Contribute</h2>
@@ -56,15 +51,15 @@ We will list and announce Talent Plan based learning activities in this part,inc
 
 **结合个人兴趣爱好及知识背景，选择适合自己的学习路径**
 
-[路径（一）：实现一个Mini版本的分布式关系型数据库]([Talent Plan (pingcap.com)](https://learn.pingcap.com/learner/talent-plan/implement-a-mini-distributed-relational-database))
+[路径（一）：实现一个Mini版本的分布式关系型数据库](https://learn.pingcap.com/learner/talent-plan/implement-a-mini-distributed-relational-database)
 
-[路径（二）：实现一个Mini版本的分布式Key-Value数据库]([Talent Plan (pingcap.com)](https://learn.pingcap.com/learner/talent-plan/implement-a-mini-distributed-key-value-database))
+[路径（二）：实现一个Mini版本的分布式Key-Value数据库](https://learn.pingcap.com/learner/talent-plan/implement-a-mini-distributed-key-value-database)
 
-[路径（三）：参与工业级开源分布式关系型TiDB的开发实践]([Talent Plan (pingcap.com)](https://learn.pingcap.com/learner/talent-plan/become-a-tidb-contributor))
+[路径（三）：参与工业级开源分布式关系型TiDB的开发实践](https://learn.pingcap.com/learner/talent-plan/become-a-tidb-contributor)
 
-[路径（四）：参与工业级开源分布式Key-Value数据库TiKV的开发实践]([Talent Plan (pingcap.com)](https://learn.pingcap.com/learner/talent-plan/become-a-tikv-contributor))
+[路径（四）：参与工业级开源分布式Key-Value数据库TiKV的开发实践](https://learn.pingcap.com/learner/talent-plan/become-a-tikv-contributor)
 
-[路径（五）：Rust编程原理与实践]([Talent Plan (pingcap.com)](https://learn.pingcap.com/learner/talent-plan/rust-programming))
+[路径（五）：Rust编程原理与实践](https://learn.pingcap.com/learner/talent-plan/rust-programming)
 
 ### Step 2
 
@@ -108,7 +103,7 @@ Talent Challenge Program 是为通过 Talent Plan 课程考核的高校学生提
 - 丰厚的项目奖金，每个项目根据难易程度设有不同额度的项目奖金，顺利完成项目即可获得项目奖金，实践赚钱两不误
 - 优质的实习/校招机会，项目实习期间表现优秀的 Mentee 有机会获得由 PingCAP 及 PingCAP 合作企业提供的实习/校招机会
 
-Talent Challenge Program 2021 正在进行中，点击“[立即申请]([talent-plan/talent-challenge-program2021 at master · pingcap/talent-plan · GitHub](https://github.com/pingcap/talent-plan/tree/master/talent-challenge-program2021))”开始你的实训之旅吧
+Talent Challenge Program 2021 正在进行中，点击“[立即申请](https://github.com/pingcap/talent-plan/tree/master/talent-challenge-program2021)”开始你的实训之旅吧
 
 
 
@@ -135,12 +130,3 @@ We can refer to the current "学员故事"
 - **商务咨询**   info@pingcap.com
 - **媒体合作**   pr@pingcap.com
 
-
-
-
-
-### Reference:
-
-https://kylin.apache.org/community/
-
-http://hudi.apache.org/
